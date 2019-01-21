@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "Language Translation",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Build a Language Translation!",
   "permissions": [
     "activeTab",
     "declarativeContent",
